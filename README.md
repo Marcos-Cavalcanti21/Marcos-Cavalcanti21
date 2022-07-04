@@ -40,12 +40,7 @@
   <a href="https://stackoverflow.com/users/17163096/marcos-cavalcanti" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  
+  ![Snake animation](https://github.com/thborges92/thborges92/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-
-###
-
-<br clear="both">
-
-  ![Snake animation](https://github.com/Marcos-Cavalcanti21/Marcos-Cavalcanti21/blob/output/github-contribution-grid-snake.svg)
-
-###
