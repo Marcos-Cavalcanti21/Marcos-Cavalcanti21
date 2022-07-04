@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/marcos-cavalcanti21/marcos-cavalcanti21/blob/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/Marcos-Cavalcanti21/Marcos-Cavalcanti21/blob/output/github-contribution-grid-snake.svg)
 
 ###
