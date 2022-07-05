@@ -31,6 +31,8 @@
 
 <img align="right" width="350" src="https://i.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.webp"  />
 
+<br clear="both">
+
 ###
 
 <div align="left">
