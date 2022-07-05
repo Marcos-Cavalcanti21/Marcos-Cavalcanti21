@@ -1,8 +1,5 @@
 
-    ![](https://komarev.com/ghpvc/?username=your-github-marcos-cavalcanti21&color=C4FFCB)
-    
-    ![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=5BF56C&size=25&lines=Hi👋🏻,+Welcome+to+my+Github+page;+I%27m+Marcos+Cavalcanti;FullStack+Developer)
-
+    <h2 align="left">Hi 👋! My name is Marcos and I'm a Developer, from Brazil.</h2>
 ###
 
 <div align="center">
