@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-   ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Marcos-Cavalcanti21/Marcos-Cavalcanti21/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Marcos-Cavalcanti21/Marcos-Cavalcanti21/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ###
