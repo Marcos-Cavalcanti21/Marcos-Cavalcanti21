@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-  ![Snake animation](https://github.com/Marcos-Cavalcanti21/Marcos-Cavalcanti21/blob/output/github-contribution-grid-snake.svg)
+   ![](https://github.com/Marcos-Cavalcanti21/snk/raw/output/github-contribution-grid-snake.svg)
 
 ###
